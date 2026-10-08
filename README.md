@@ -18,3 +18,4 @@ Above mentioned are basic function and you are welcome to improve features to ma
 - you can use NodeJS, PHP, Python
 - you can use NoSQL or SQL DB for the database
 - you can use any LLM in helping coding this
+-
