@@ -1,21 +1,20 @@
-# ABC Ticketing system
+# ABC Ticketing System
 
-ABC Pvt Ltd is looking into handling their customer request through a ticketing system. the system should offer these basic functionalities
+ABC Pvt Ltd is looking to handle their customer requests through a ticketing system. The system should offer these basic functionalities:
 
-- should be able to create, update, delete tickets. but only admin user can delete tickets
-- should be able to comment on the tickets
-- should be able to assign ticket for agents
-- should be able to update the ticket status to Open-> in progress -> blocked or completed
-- should be able to close tickets and inform the customer via email that the ticket has been closed
-- should be able to search tickets by customer, status and assignee
+- Should be able to create, update, and delete tickets, but only an admin user can delete tickets
+- Should be able to comment on tickets
+- Should be able to assign tickets to agents
+- Should be able to update the ticket status from Open → In Progress → Blocked or Completed
+- Should be able to close tickets and inform the customer via email that the ticket has been closed
+- Should be able to search tickets by customer, status, and assignee
 
-Above mentioned are basic function and you are welcome to improve features to make the system better.
+The features mentioned above are basic, and you are welcome to improve them to make the system better.
 
 # Guidance
 
-- branch off from main branch and make fix/your-name branch
-- once you are done with that please push change to that branch
-- you can use NodeJS, PHP, Python
-- you can use NoSQL or SQL DB for the database
-- you can use any LLM in helping coding this
-
+- Branch off from the main branch and create a `fix/your-name` branch
+- Once you are done, please push your changes to that branch
+- You can use Node.js, PHP, or Python
+- You can use a NoSQL or SQL database
+- You can use any LLM to help with coding this
